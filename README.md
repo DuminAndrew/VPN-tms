@@ -1,5 +1,5 @@
 [![Logo-For-News.png](https://i.postimg.cc/150LqRmw/Logo-For-News.png)](https://postimg.cc/GH270Csm)
-# Virtual Private Network wuth traffic masking system
+# Virtual Private Network with traffic masking system
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=12F70C&random=false&width=435&lines=Security+is+a+state+of+comfort+;on+the+web)](https://git.io/typing-svg)
 
